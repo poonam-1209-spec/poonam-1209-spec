@@ -1,6 +1,6 @@
 # Hi, I'm Poonam Pawar 👋
 
-### AI/ML & GenAI Enthusiast | Python | SQL | Java
+### AI/ML & GenAI Enthusiast | Python | SQL | Java | RAG
 
 🎓 B.E. Electronics & Telecommunication Engineering @ PICT  
 📊 CGPA: 8.84/10
